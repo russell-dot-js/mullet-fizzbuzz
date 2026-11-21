@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<concessions currency="internal-cent" unit="one-line">
+  <press covenant="performing" proprietor="Wholly owned thermal subsidiary">
+    <terminal-glyph radix="16">0A</terminal-glyph>
+  </press>
+  <press covenant="in-arrears" proprietor="Sale-and-leaseback dot matrix">
+    <terminal-glyph radix="8">012</terminal-glyph>
+  </press>
+</concessions>

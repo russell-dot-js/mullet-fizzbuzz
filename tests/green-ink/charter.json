@@ -1,0 +1,32 @@
+{
+  "layers": 200,
+  "offices": [
+    ["Green Ink Mutual", "Pay for recoloring the dashboard if a passing test later recants."],
+    ["The Widow of the Last Known Good Build", "Collect residuals whenever a previous result is cited as evidence."],
+    ["Museum of Intermittent Failures", "Keep the original failure under glass at precisely the temperature at which it happened."],
+    ["Society for the Prevention of Cruelty to Canaries", "Recover the cost of a second bird whenever the first survives."]
+  ],
+  "hearings": [
+    ["Probate of the red pixel", "invoice", "The pixel leaves its full estate to the next failing build."],
+    ["Deposition of a witness paid by the assertion", "escrow", "Payment is withheld until the witness recognizes the defendant."],
+    ["Rehearsal of the emergency all-clear", "appeal", "The siren may fall silent only after a second siren confirms the silence."]
+  ],
+  "franchises": [
+    ["Wet Paint Syndicate","green ink","postage","applicant","treasury"],
+    ["Night Watch","eyelid overtime","mileage","applicant","mutual"],
+    ["Flake Exchange","humidity swaps","premium","applicant","escrow"],
+    ["Redaction Desk","one black rectangle","brokerage","treasury","archive"],
+    ["Retry Pension","yesterday's confidence","seniority","escrow","archive"],
+    ["Museum Cloakroom","a moth-eaten repro","storage","archive","treasury"],
+    ["Tint Refunds","unused red","rebate","treasury","applicant"],
+    ["Canary Vet","second opinion","indemnity","mutual","applicant"],
+    ["Obituary Wire","premature all-clear","postage","applicant","archive"],
+    ["Repro Courier","one machine it works on","mileage","archive","mutual"],
+    ["False Positive Mutual","wrongful conviction","premium","applicant","escrow"],
+    ["Pixel Realtor","one square of dashboard","brokerage","escrow","treasury"],
+    ["Retired Build Agents","last week's uptime","seniority","treasury","archive"],
+    ["Stack Trace Storage","the bottom frame","storage","archive","escrow"],
+    ["Appeals Window","unused doubt","rebate","escrow","mutual"],
+    ["Last Responder","an apology to the bird","indemnity","mutual","applicant"]
+  ]
+}
